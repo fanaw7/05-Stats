@@ -1,1 +1,1 @@
-# Team-Mercury
+# Exploratory Data Analysis on Student Performance
